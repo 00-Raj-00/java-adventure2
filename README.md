@@ -1,2 +1,2 @@
-# java-adventure2
+# java-adventure
 my work on java 
